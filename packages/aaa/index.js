@@ -1,8 +1,8 @@
-import Alert from './src/main';
+import aaa from './src/main';
 
 /* istanbul ignore next */
-Alert.install = function(Vue) {
-  Vue.component(Alert.name, Alert);
+aaa.install = function(Vue) {
+  Vue.component(aaa.name, aaa);
 };
 
-export default Alert;
+export default aaa;
