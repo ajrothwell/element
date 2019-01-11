@@ -11,8 +11,8 @@
       </div>
     </div>
     <external-link v-if="options && options.externalLink"
-                   :options="options.externalLink"
-                   :type="'badge'"
+                  :options="options.externalLink"
+                  :type="'badge'"
     />
     <!-- <div class="external-link">
       <a v-if="options && options.externalLink"
