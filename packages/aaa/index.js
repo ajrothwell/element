@@ -1,8 +1,8 @@
-import aaa from './src/main';
+import Aaa from './src/main';
 
 /* istanbul ignore next */
-aaa.install = function(Vue) {
-  Vue.component(aaa.name, aaa);
+Aaa.install = function(Vue) {
+  Vue.component(Aaa.name, Aaa);
 };
 
-export default aaa;
+export default Aaa;

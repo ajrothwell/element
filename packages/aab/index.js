@@ -1,8 +1,8 @@
-import aab from './src/main';
+import Aab from './src/main';
 
 /* istanbul ignore next */
-aab.install = function(Vue) {
-  Vue.component(aab.name, aab);
+Aab.install = function(Vue) {
+  Vue.component(Aab.name, Aab);
 };
 
-export default aab;
+export default Aab;

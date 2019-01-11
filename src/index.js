@@ -41,6 +41,8 @@ import TabPane from '../packages/tab-pane/index.js';
 import Tag from '../packages/tag/index.js';
 import Tree from '../packages/tree/index.js';
 import Alert from '../packages/alert/index.js';
+import Aaa from '../packages/aaa/index.js';
+import Aab from '../packages/aab/index.js';
 import Notification from '../packages/notification/index.js';
 import Slider from '../packages/slider/index.js';
 import Loading from '../packages/loading/index.js';
@@ -113,6 +115,8 @@ const components = [
   Tag,
   Tree,
   Alert,
+  Aaa,
+  Aab,
   Slider,
   Icon,
   Row,
@@ -219,6 +223,8 @@ module.exports = {
   Tag,
   Tree,
   Alert,
+  Aaa,
+  Aab,
   Notification,
   Slider,
   Icon,
