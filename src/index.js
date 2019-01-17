@@ -43,6 +43,7 @@ import Tree from '../packages/tree/index.js';
 import Alert from '../packages/alert/index.js';
 import Aaa from '../packages/aaa/index.js';
 import Aab from '../packages/aab/index.js';
+import Aac from '../packages/aac/index.js';
 import Notification from '../packages/notification/index.js';
 import Slider from '../packages/slider/index.js';
 import Loading from '../packages/loading/index.js';
@@ -117,6 +118,7 @@ const components = [
   Alert,
   Aaa,
   Aab,
+  Aac,
   Slider,
   Icon,
   Row,
@@ -225,6 +227,7 @@ module.exports = {
   Alert,
   Aaa,
   Aab,
+  Aac,
   Notification,
   Slider,
   Icon,
